@@ -1,0 +1,5 @@
+c:\Users\Teedo\documents\visual studio 2015\Projects\Stacks\Acme\bin\Debug\Acme.dll
+c:\Users\Teedo\documents\visual studio 2015\Projects\Stacks\Acme\bin\Debug\Acme.pdb
+c:\Users\Teedo\documents\visual studio 2015\Projects\Stacks\Acme\obj\Debug\Acme.dll
+c:\Users\Teedo\documents\visual studio 2015\Projects\Stacks\Acme\obj\Debug\Acme.pdb
+c:\Users\Teedo\documents\visual studio 2015\Projects\Stacks\Acme\obj\Debug\Acme.csprojResolveAssemblyReference.cache

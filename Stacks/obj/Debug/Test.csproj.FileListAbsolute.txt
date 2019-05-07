@@ -1,0 +1,8 @@
+c:\users\teedo\documents\visual studio 2015\Projects\Stacks\Stacks\bin\Debug\Stacks.exe.config
+c:\users\teedo\documents\visual studio 2015\Projects\Stacks\Stacks\bin\Debug\Stacks.exe
+c:\users\teedo\documents\visual studio 2015\Projects\Stacks\Stacks\bin\Debug\Stacks.pdb
+c:\users\teedo\documents\visual studio 2015\Projects\Stacks\Stacks\obj\Debug\Stacks.exe
+c:\users\teedo\documents\visual studio 2015\Projects\Stacks\Stacks\obj\Debug\Stacks.pdb
+c:\users\teedo\documents\visual studio 2015\Projects\Stacks\Stacks\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\teedo\documents\visual studio 2015\Projects\Stacks\Stacks\bin\Debug\Acme.dll
+c:\users\teedo\documents\visual studio 2015\Projects\Stacks\Stacks\bin\Debug\Acme.pdb
